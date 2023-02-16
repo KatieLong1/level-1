@@ -1,0 +1,29 @@
+html, body {
+	background-color: lightblue;
+}
+/******Background Styles*****/
+header{
+	background-color: lightcoral;
+}
+nav{
+	background-color: lightpink;
+}
+main{
+	background-color: lightyellow;
+	padding:10px;
+}
+footer{
+	background-color: lightgreen;
+}
+
+.top-box{
+	display:flex;
+}
+.lists{
+	display:flex;
+}
+
+img{
+	margin:10px;
+	width:200px;
+}
